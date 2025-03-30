@@ -925,8 +925,6 @@ Table of Contents
 - [OCaml Programming: Correct + Efficient + Beautiful](https://www.youtube.com/playlist?list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU)
 - [Columbia IEOR E4004 Introduction to Operations Research: Deterministic Models summer 2005, by Jay Sethuraman](https://www.youtube.com/playlist?list=PLIygTcviGPKCVGq8cQ9MCBEm5wVXGsDpw)
 - [Columbia IEOR E4106 Introduction to Operations Research: Stochastic Models spring 2005, by Ward Whitt](https://www.youtube.com/playlist?list=PLIygTcviGPKDJMIOWQcnSSzKDFOG_dF4r)
-- [Columbia ELEN E6711 Stochastic Models in Information Systems fall 2005, by Yuliy Barsyhnikov](https://www.youtube.com/playlist?list=PL682UO4IMem9dvI-8vjxlPkM5onW9WoIp)
-- [Columbia ELEN E6717 Information Theory fall 2003, by Vittorio Castelli](https://www.youtube.com/playlist?list=PL682UO4IMem_IUZIFzlJi8vCTtS-Xi8eY)
 - [CMU 21 738 Extremal Combinatorics spring 2020, by Po-Shen Loh](https://www.youtube.com/playlist?list=PLgTkKBA6LRqaGKITvQS1QuIBoEbOVwFTm)
 - [JHU Domain-Specific Languages (DSL) Class (Summer 2018)](https://www.youtube.com/playlist?list=PLW-6wqFEcgTqHMXV_8jI43QLkCv8VgqLk)
 - [Spring 2019 - Probabilistically Checkable and Interactive Proof Systems (Alessandro Chiesa)](https://www.youtube.com/playlist?list=PLkFD6_40KJIyWWtxCPBHwGsrutjvwM5_U)
